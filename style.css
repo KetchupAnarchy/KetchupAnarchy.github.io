@@ -1,0 +1,26 @@
+body{
+  background-image: url("/background.png");
+}
+
+.pageCont{
+  margin:auto;
+  max-width: 900px;
+  text-align: left;
+  box-shadow: 5px 5px 5px 5px #b0c4de;
+  padding: 12px;
+  background-color: #b0c4de;
+}
+
+.titleCont{
+  text-align: center;
+  color: #f22929;
+}
+
+.titleCont > h1 > img{
+  width: 32px;
+  margin-right: 2px;
+}
+
+a{
+  color: darkgreen;
+}
